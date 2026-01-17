@@ -10,4 +10,4 @@ djangorestframework
 djangorestframework_simplejwt
 
 pillow
-request
+requests
